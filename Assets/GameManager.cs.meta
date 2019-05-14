@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 77b56951b0142994d9c15ad9fe718f43
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - loserText: {instanceID: 0}
+  - loseScreen: {instanceID: 0}
+  - gameMusic: {fileID: 8300000, guid: a383fa33a01da405584b02dbbf3e851a, type: 3}
+  - lossMusic: {fileID: 8300000, guid: 4d2f38a55c9d44ef593f4c6a0cc1c57b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
