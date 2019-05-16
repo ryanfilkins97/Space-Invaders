@@ -36,6 +36,7 @@ public class GameManager : MonoBehaviour
 
     public void Restart()
     {
+        Score.score = 0;
         SceneManager.LoadScene(0);
     }
 
